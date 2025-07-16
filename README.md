@@ -14,7 +14,7 @@
 - 🔍 Focused on clean architecture, performance, and impactful design
 - 📚 Learning: Advanced GoLang, GCP, and Scalable Microservices
 - ⚙️ Also exploring DevOps: AWS, EC2, RDS, Amplify, API Gateway
-- 💬 Ask me about **Next.js**, **PostgreSQL**, **Firebase**, **Prisma**, **Gemini AI**, or **ShadCN UI**
+- 💬 Ask me about **Next.js**, **PostgreSQL**, **Firebase**, **Prisma**, **Gemini AI**, **MERN** or **ShadCN UI** 
 
 ---
 
