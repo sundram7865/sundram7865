@@ -61,8 +61,8 @@
 
 ### 🧑‍💼 Featured Projects
 
-- 💸 [**FinTrack**](https://github.com/sundram7865/fintrack) – AI-powered personal finance dashboard using MongoDB + React  
-- 🏢 [**MetroNova**](https://github.com/sundram7865/metronova) – Real estate platform with Firebase, JWT, & Redux Toolkit  
+- 💸 [**FinTrack**](https://ai-fianance-tracker.vercel.app/) – AI-powered personal finance tracker 
+- 🏢 [**MetroNova**](https://metro-nova.vercel.app/) – Real estate platform
 - 🧠 AI Tools – Resume optimizer, background remover, image editor built with Gemini API  
 
 ---
