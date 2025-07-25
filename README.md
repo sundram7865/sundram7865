@@ -10,13 +10,9 @@
 ### 🚀 About Me
 
 - 🧠 Full-stack developer building production-grade platforms with AI & automation
-- 🛠 Currently building:  
-  &nbsp;&nbsp;&nbsp;&nbsp;🧾 [**FinTrack**](https://ai-fianance-tracker.vercel.app/) – AI-powered personal finance manager  
-  &nbsp;&nbsp;&nbsp;&nbsp;🏘 [**MetroNova**](https://metro-nova.vercel.app/) – Real Estate SaaS platform  
-  &nbsp;&nbsp;&nbsp;&nbsp;🧠 [**AI Tools**](https://zapai-psi.vercel.app/) – Resume Optimizer, Background Remover, AI Image Editor  
 - ⚙️ Passionate about DevOps, cloud infra, and system design
-- 📚 Currently deep diving into **GoLang**, **GCP**, and **Microservices**
-- 💬 Ask me about: **Next.js**, **PostgreSQL**, **Firebase**, **Prisma**, **Gemini AI**, **ShadCN UI**
+- 📚 Currently deep diving into **GoLang**, **GCP**, **AI/ML** and **Microservices**
+- 💬 Ask me about: **Next.js**, **PostgreSQL**, **Firebase**, **Prisma**, **Gemini AI**, **ShadCN UI**,**React**,**Redux**,**NoSQL**
 
 ---
 
