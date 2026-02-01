@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sundram-mishra-72981a277/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:79rip79@gmail.com">
+  <a href="mailto:mishrasundram091@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sundram7865">
