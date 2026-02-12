@@ -32,7 +32,7 @@ Full-stack engineer with **strong backend specialization**, building
 
 Focused on **system design, distributed systems, databases, caching, and real-time architectures**.
 
-🎯 Targeting **FAANG & high-growth startup engineering roles**.
+.
 
 ---
 
