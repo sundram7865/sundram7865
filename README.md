@@ -1,140 +1,188 @@
-<h1 align="center">Sundram Mishra</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=500&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+(Backend-Focused);Distributed+Systems+%7C+System+Design;Building+Scalable+Low-Latency+Systems" />
-</p>
+# ⚡ Sundram Kumar Mishra
+### Backend Engineer | Distributed Systems | AI Infrastructure
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sundram-mishra-72981a277/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mishrasundram091@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sundram7865">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ripper321/">
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Distributed+Systems+Builder;Microservices+Developer;RAG+%7C+AI+Infrastructure;Real+Time+Systems&center=true&width=520&height=45"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sundram7865&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<br/>
 
----
-## portfolio
-🔗 https://port-l7q5.vercel.app/
-## 🧠 Summary
+<img src="https://komarev.com/ghpvc/?username=sundram7865&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-Full-stack engineer with **strong backend specialization**, building  
-**scalable, low-latency, production-grade systems**.
+<br/>
 
-Focused on **system design, distributed systems, databases, caching, and real-time architectures**.
+<a href="mailto:mishrasundram091@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-.
+<a href="https://www.linkedin.com/in/sundram1mishra/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="https://port-l7q5.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
 
-## 🔍 Backend & System Design Focus
+<a href="https://leetcode.com/u/ripper321/">
+<img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-- 🏗 Scalable backend architectures (monolith → microservices)
-- ⚡ Real-time systems (WebSockets)
-- 🚀 Performance optimization (Redis caching)
-- 🔐 Auth systems (JWT, OTP, Redis TTL)
-- 🧩 Clean API contracts & validations
-- 🧠 HLD / LLD trade-offs
+<a href="https://github.com/sundram7865">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Roles-Backend%20%7C%20Distributed%20Systems-blue?style=flat-square"/>
+
+</div>
 
 ---
 
-## 🗄 Database & Data Modeling
+# 👨‍💻 whoami
 
-- ER modeling & schema design from requirements
-- Indexing & query optimization
-- SQL vs NoSQL decisions based on access patterns
-- Transactions, constraints, consistency
-- Databases: **PostgreSQL, MongoDB, Redis**
-
----
-
-## 🛠 Tech Stack (Backend-First)
-
-### 🔹 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,postgres,mongodb,rabbitmq,docker,aws" />
-</p>
-
-- Node.js, Express.js, FastAPI  
-- REST APIs, GraphQL  
-- Microservices, WebSockets  
-- Redis (Caching, Pub/Sub)  
-
-### 🔹 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
-
-- React.js, Next.js  
-- Redux Toolkit  
-- Tailwind CSS, ShadCN UI  
-
-### 🔹 Core CS
-- DSA, OOP  
-- DBMS, OS  
-- System Design  
+```json
+{
+  "name": "Sundram Mishra",
+  "role": "Backend Engineer",
+  "education": "IIIT Nagpur (ECE 2022-2026)",
+  "experience": "SDE Intern @ Knowledge Doc",
+  "focus": [
+    "Distributed Systems",
+    "Backend Architecture",
+    "Real-Time Systems",
+    "AI Infrastructure",
+    "Microservices"
+  ],
+  "portfolio": "https://port-l7q5.vercel.app",
+  "leetcode": "https://leetcode.com/u/ripper321/"
+}
+```
 
 ---
 
-## 🚀 Selected Projects
+# 🧠 AI / LLM Stack
 
-### 💬 ChatApp — Distributed Real-Time Messaging Platform
-- Sub-120ms real-time messaging
-- ~90% DB load reduction using Redis
-- Microservices + RabbitMQ
-- JWT + OTP authentication
-
-🔗 https://github.com/sundram7865/chat-app
+| Area | Technologies |
+|-----|-------------|
+| RAG Systems | LangChain, Embeddings |
+| LLM APIs | OpenAI, Gemini |
+| AI Architecture | Retrieval Systems |
+| AI Backend | FastAPI, Node.js |
+| Vector Search | Firestore Vector DB |
 
 ---
 
-### 🏘 MetroNova — Full-Stack Real Estate SaaS
-- Role-based backend APIs
-- 35% faster responses
-- PostgreSQL schema design
+# 🛠 Backend & System Stack
 
-🔗 https://metro-nova.vercel.app
+| Backend | Databases | DevOps | Frontend |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,ts,js"/> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase"/> | <img src="https://skillicons.dev/icons?i=docker,aws,nginx,rabbitmq"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind"/> |
+
+---
+
+# 🚀 Projects
+
+### 💬 ChatApp — Distributed Real-Time Messaging
+
+Microservices messaging system using **RabbitMQ event architecture**.
+
+Features
+
+• Real-time WebSocket messaging  
+• Redis caching reduced DB load **70%**  
+• JWT authentication  
+• Docker + AWS deployment  
+
+Repository  
+https://github.com/sundram7865/chat-app
 
 ---
 
 ### 🤖 ZapAI — AI SaaS Platform
-- Backend for 6+ AI tools
-- 200+ AI requests/day
-- Secure role-based access
 
-🔗 https://ai-saa-s-zeta.vercel.app
+Full-stack AI SaaS integrating **Gemini APIs**.
 
----
+Features
 
-## 🧮 Problem Solving
+• AI content generation  
+• resume analysis  
+• scalable backend architecture  
+• premium feature gating  
 
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-</p>
-
-🔗 https://leetcode.com/u/ripper321/
+Live  
+https://ai-saa-s-zeta.vercel.app
 
 ---
 
-## 📊 GitHub Activity
+### 🏘 MetroNova — Real Estate SaaS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sundram7865&show_icons=true&hide_border=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundram7865&layout=compact&hide_border=true&theme=radical" />
-</p>
+Backend platform with **20+ APIs** and **PostGIS geospatial search**.
+
+Features
+
+• RBAC authentication  
+• PostgreSQL schema design  
+• geospatial property search  
+
+Live  
+https://metro-nova.vercel.app
 
 ---
 
-<p align="center">
-⚡ Open to full-stack roles with strong backend & system design ownership.
-</p>
+# 🔭 Currently Building
+
+• RAG based AI applications  
+• AI voice agents  
+• distributed backend systems  
+• scalable SaaS infrastructure  
+
+---
+
+# 🧮 Competitive Programming
+
+🏆 **LeetCode Knight (Top 4.4%)**
+
+🔗 Profile  
+https://leetcode.com/u/ripper321/
+
+Achievements
+
+• 1000+ DSA problems solved  
+• CodeChef Global Rank **172**  
+• LeetCode Biweekly Global Rank **880**
+
+---
+
+# 🌐 Portfolio
+
+Live Portfolio  
+https://port-l7q5.vercel.app
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sundram7865&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundram7865&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sundram7865&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Open to Backend / Distributed Systems / AI Infrastructure Roles
+
+</div>
